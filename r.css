@@ -1,0 +1,36 @@
+
+
+
+h1{
+    color: #000;
+    border: rgb(93, 150, 131);
+    border-width: 67px;
+    border-style: solid;
+    background-color: aquamarine;
+    border-radius: 7px;
+}
+h2{
+border: #000;
+background-color: aqua;
+    width: 10%;
+    height: 52%;
+    border-style:solid;
+    border-width: 5px;
+    border-color: rgb(160, 106, 106);
+    background-color:rgba(175, 109, 102, 0.973);
+   
+
+}
+
+ table tr td{
+    width: 28%;
+    height: 50%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    color:  rgb(0, 0, 0);
+    text-align-last: center;
+    background-color:rgba(192, 123, 111, 0.973);
+    
+
+}}
